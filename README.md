@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: Wirawat.565@mail.kmutt.ac.th
 - ⚡ Fun fact: literally crazy
-- https://portfolio-wiree.vercel.app/
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiree65&show_icons=true&theme=jolly)]()
+- https://portfolio-wiree.vercel.app
+-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiree65&show_icons=true&theme=jolly)]()

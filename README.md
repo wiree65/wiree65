@@ -5,7 +5,7 @@ Just a friendly note, you can call me Katak
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on KMUTT
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Vue, Laravel, GraphQL, .Net and php
 - 📫 How to reach me: Wirawat.565@mail.kmutt.ac.th
 - ⚡ Fun fact: literally crazy
 

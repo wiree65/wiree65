@@ -2,8 +2,6 @@
 I’m Mobile Dev and Data Engineer
 Just a friendly note, you can call me Katak
 
-Here are some ideas to get you started:
-
 - 🔭 KMUTT Graduated
 - 📫 How to reach me: wirawat09@gmail.com
 

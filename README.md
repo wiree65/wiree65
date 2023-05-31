@@ -1,12 +1,10 @@
 ### Hi there, I'm Wirawat Jaiarree 👋
-I’m freelance graphic, interactive design, and a simple student
+I’m Mobile Dev and Data Engineer
 Just a friendly note, you can call me Katak
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying on KMUTT
-- 🌱 I’m currently learning Vue, Pug, Tailwindcss
-- 📫 How to reach me: Wirawat.565@mail.kmutt.ac.th
-- ⚡ Fun fact: literally crazy
+- 🔭 KMUTT Graduated
+- 📫 How to reach me: wirawat09@gmail.com
 
 -[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiree65&show_icons=true&theme=jolly)]()
